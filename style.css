@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@100&family=Poppins:wght@500&display=swap');
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.banner{
+    display: flex;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    margin: 50px;
+}
+
+.intro{
+    font-size: 50px;
+    font-weight: 30px;
+}
+
+.intro p{
+    font-size: 14px;
+}
+
+
